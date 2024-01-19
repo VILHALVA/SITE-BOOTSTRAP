@@ -4,7 +4,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
-<img src="https://dh.library.virginia.edu/system/files/styles/large/private/bootstrap-stack.png?itok=b_S8F9nO" align="center" width="280"> <br>
+<img src="FOTO.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
 Este é um código HTML que utiliza o framework Bootstrap para criar uma página da web responsiva sobre o Bootstrap. Aqui estão as principais partes do código:
