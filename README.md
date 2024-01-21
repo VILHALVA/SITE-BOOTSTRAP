@@ -1,10 +1,7 @@
 # SITE BOOTSTRAP
 👨‍🏫PROJETO FEITO PARA O CURSO DE BOOTSTRAP.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
-
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 Este é um código HTML que utiliza o framework Bootstrap para criar uma página da web responsiva sobre o Bootstrap. Aqui estão as principais partes do código:
@@ -37,23 +34,53 @@ Este é um código HTML que utiliza o framework Bootstrap para criar uma página
 8. **Scripts do Bootstrap:**
    - Inclui os scripts do Bootstrap (JavaScript) e o arquivo `bootstrap.min.css` do CDN.
 
-### CSS Embutido:
+### CSS:
 1. **Estilos Gerais:**
    - Define estilos para a imagem (`img`) e para o cabeçalho (`header`).
    - Usa gradientes e sombras para estilizar o cabeçalho.
    - Personaliza as cores e estilos da barra de navegação (`nav`).
    - Estiliza os artigos (`article`), a barra lateral (`aside`), e o rodapé (`footer`).
 
-### JavaScript:
+### JS:
 1. **Funções JavaScript:**
    - Duas funções (`marcar` e `desmarcar`) alteram as cores dos links na barra lateral quando o mouse passa sobre eles e quando sai.
 
-### Bootstrap:
+### BOOTSTRAP:
    - O código utiliza a versão 5.2.0-beta1 do Bootstrap, incluindo a folha de estilos (`bootstrap.min.css`) e os scripts (`bootstrap.bundle.min.js`) do CDN.
 
-### Considerações Adicionais:
+### CONSIDERAÇÕES ADICIONAIS:
    - A página é responsiva, pois utiliza o framework Bootstrap, que é conhecido por fornecer elementos responsivos e facilitar o desenvolvimento web.
    - As cores, sombras e estilos utilizados criam uma estética visual agradável.
    - Há ênfase na utilização de gradientes e sombras para melhorar a aparência da página.
    - A interatividade na barra lateral ao passar o mouse sobre os links é implementada com JavaScript embutido.
    - Informações sobre o criador da página e um link para o GitHub são incluídos no rodapé.
+
+## COMO USAR?
+* Clone o repositório para o seu sistema local:
+
+```bash
+git clone https://github.com/VILHALVA/SITE-BOOTSTRAP.git
+```
+
+* Navegue até o diretório do projeto.
+
+```bash
+cd SITE-BOOTSTRAP
+```
+
+* Descompacte o arquivo ZIP (se você baixou manualmente):
+
+```bash
+unzip SITE-BOOTSTRAP.zip
+```
+* Abra o arquivo `INDEX.html` em seu navegador de preferência.
+
+## NÃO SABE?
+- Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
+* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [Curso de Bootstrap](https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP)
+* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
+## CREDITOS:
+- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
