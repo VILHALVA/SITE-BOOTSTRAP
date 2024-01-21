@@ -83,4 +83,5 @@ unzip SITE-BOOTSTRAP.zip
 * [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
-- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+- [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [PROJETO FEITO PARA O CURSO DE BOOTSTRAP](https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP)
