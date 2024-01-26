@@ -1,7 +1,11 @@
 # SITE BOOTSTRAP
 👨‍🏫PROJETO FEITO PARA O CURSO DE BOOTSTRAP.
 
-<img src="FOTO.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_2.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_3.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_4.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_5.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
 Este é um código HTML que utiliza o framework Bootstrap para criar uma página da web responsiva sobre o Bootstrap. Aqui estão as principais partes do código:
